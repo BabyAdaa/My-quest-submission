@@ -18,8 +18,7 @@ With smart contracts, you simply drop a bitcoin into the vending machine (i.e. l
 
 3. Explain the difference between a script and a transcript
 
-Transaction can lead to cost of money depending The Blockchain you are interacting with.
+Transaction is used to interact with Blockchain. It cost money and the rate of charges depends on The Blockchain you are interacting with.
 Different transaction fee occur on Ethereum, Solana, cardano,binance Smart chain and Fantom Blockchain.
-They are always different when it comes to transaction fee.
 
 Script is used to retrieve data on the Blockchain, it can't be changed and it doesn't cost money too.
