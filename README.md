@@ -22,4 +22,4 @@ Transaction can lead to cost of money depending The Blockchain you are interacti
 Different transaction fee occur on Ethereum, Solana, cardano,binance Smart chain and Fantom Blockchain.
 They are always different when it comes to transaction fee.
 
-Script is used to interact with data on the Blockchain, it can't be changed and it doesn't cost money too.
+Script is used to retrieve data on the Blockchain, it can't be changed and it doesn't cost money too.
